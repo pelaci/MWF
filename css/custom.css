@@ -9,3 +9,9 @@ div h1{
 div h2{
     text-align: center;
 }
+.salesnav{
+  margin-left: auto;  
+}
+.container-fluid{
+    background-color: blue;
+}
